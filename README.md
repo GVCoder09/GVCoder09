@@ -4,14 +4,13 @@ I'm Programmer. Hobbyist. Self-taught. I've been writing in Python for over 5 ye
 
 > It could be worse, but then again, it could be better — Gandalf
 
-<table>
-<tbody>
-<tr>
-<td>
+
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GVCoder09&theme=default)
 
-</td>
+<table>
+<tbody>
+<tr>
 <td>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GVCoder09)](https://github.com/GVCoder09/github-readme-stats)
