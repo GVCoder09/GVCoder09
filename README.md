@@ -4,4 +4,24 @@ I'm Programmer. Hobbyist. Self-taught. I've been writing in Python for over 5 ye
 
 > It could be worse, but then again, it could be better — Gandalf
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GVCoder09)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+<tbody>
+<tr>
+<td>
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GVCoder09&theme=default)
+
+</td>
+<td>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GVCoder09)](https://github.com/GVCoder09/github-readme-stats)
+
+</td>
+<td>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GVCoder09)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+</tr>
+</tbody>
+</table>
+
