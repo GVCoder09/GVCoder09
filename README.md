@@ -1,6 +1,6 @@
-<h1 align="center">Hello! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>I’m <a href="https://github.com/GVCoder09">@GVCoder09</a> also known as <a href="https://habr.com/ru/users/Lord_of_Rings/">@Lord_of_Rings</a> and Aragorn</h1>
+<h1 align="center">Hello! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/><br>I’m <a href="https://github.com/GVCoder09">@GVCoder09</a></h1>
 
-I'm a Python programmer with five years of experience. I write small projects for fun and for private orders. 
+I'm a Python developer with five years of experience. I write small projects for fun and for private orders. 
 I had to work with desktop applications (Qt, Tk), web (Flask, Django), databases (SQLite, SQLAlchemy), mobile applications (Kivy, KivyMD), console utilities. 
 I do a little bit of HTML layout, Linux administration, robotics and electronics. 
 Fan of Tolkien and Lord of the Rings.
