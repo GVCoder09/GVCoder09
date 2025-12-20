@@ -30,12 +30,9 @@ I'm a big fan of J.R.R. Tolkien and the world of The Lord of the Rings, and Arag
 ## 🏆 GitHub Trophy
 ![](https://github-profile-trophy-cyyin.vercel.app/?username=GVCoder09&theme=darkhub&no-bg=true&no-frame=true)
 
-## 📨 Connect with me
-<p align="left">
-  <a href="https://github.com/GVCoder09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GVCoder09" height="30" width="40" />
-  </a>
-</p>
+## Activity
+
+![](https://raw.githubusercontent.com/GVCoder09/GVCoder09/refs/heads/main/dist/github-snake.svg)
 
 ## 🛠️ Skills
 <p align="left"> 
@@ -65,6 +62,10 @@ I'm a big fan of J.R.R. Tolkien and the world of The Lord of the Rings, and Arag
   </a> 
 </p>
 
-## Activity
 
-![](https://raw.githubusercontent.com/GVCoder09/GVCoder09/refs/heads/main/dist/github-snake.svg)
+## 📨 Contact with me
+<p align="left">
+  <a href="https://github.com/GVCoder09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GVCoder09" height="30" width="40" />
+  </a>
+</p>
